@@ -1,4 +1,4 @@
-# Netflix Content Strategy Analysis
+# NETFLIX CONTENT STRATEGY ANALYSIS
 
 This project explores Netflix's content strategy using python to analyze how differen types of content (movies vs TV shows),release timing, and genres contribute to viewership performance. 
 
