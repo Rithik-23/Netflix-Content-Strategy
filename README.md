@@ -13,7 +13,7 @@ This project explores Netflix's content strategy using python to analyze how dif
 
 ## Dataset Overview 
 
-This project uses a Netflix content dataset for 2023, which includes:
+This project uses a Netflix content dataset of year 2023, which includes:
 * Content titles and types (movie ot TV shows).
 * Genre, language, and release details (date, month, day of the week).
 * Viewership metrics such as "Hours Viewed", used to quantify audience engagement.
